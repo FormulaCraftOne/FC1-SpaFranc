@@ -31,4 +31,4 @@ Credit to the builders:
 
 Enjoy the drive!
 
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/FC1.SpaFranc.zip
+[dl-latest]: https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/world.zip
