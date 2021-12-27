@@ -16,9 +16,11 @@ FC1 TEXTURE PACK - Credit to bulldozor and shadocobra for creating many of these
 
 
 My Socials:
-Twitch: https://www.twitch.tv/adamsappleLIVE​​
-Twitter - https://twitter.com/AdamsApplesPie​​
-​Youtube - https://www.youtube.com/c/AdamsApples
+Twitch: https://www.twitch.tv/adamsappleLIVE
+
+Twitter - https://twitter.com/AdamsApplesPie
+
+Youtube - https://www.youtube.com/c/AdamsApples
 
 Credit to the builders:
 
