@@ -11,8 +11,8 @@ https://www.planetminecraft.com/project/spa-francorchamps-circuit-belgium-1-12/
 Post your fastest time here! The Appleseed Discord
 https://discord.gg/paeBnG8Csd
 
-FC1 TEXTURE PACK - Credit to bulldozor and shadocobra for creating many of these textures!
-(Texture pack download on the Appleseed Discord)
+[FC1 TEXTURE PACK][dl-texture] - Credit to bulldozor and shadocobra for creating many of these textures!
+
 
 
 My Socials:
@@ -34,3 +34,4 @@ Credit to the builders:
 Enjoy the drive!
 
 [dl-latest]: https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/world.zip
+[dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
