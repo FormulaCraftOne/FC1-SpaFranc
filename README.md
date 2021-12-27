@@ -1,5 +1,8 @@
 # FC1-SpaFrancorchamps
 
+[![image](https://user-images.githubusercontent.com/96582306/147435581-94fd6c55-8e5f-466a-a364-bd63d5973bef.png)](https://www.youtube.com/watch?v=LlzW-lBKEZU)
+
+
 [**Direct Download**][dl-latest]
 
 As F1 pulls up to the Belgian Grand Prix, the Minecraft Ice Boat Racing series follows! This is a recreation of the circuit Spa Francorchamps with various fantasy elements to make for a good ice boat racing map.
