@@ -13,8 +13,7 @@ Big thanks to MosquitoFRA for creating the basis of this map.
 https://www.planetminecraft.com/project/spa-francorchamps-circuit-belgium-1-12/
 
 
-Post your fastest time here! The Appleseed Discord
-https://discord.gg/paeBnG8Csd
+Post your fastest time here! [The Appleseed Discord][join-discord]
 
 [FC1 TEXTURE PACK][dl-texture] - Credit to bulldozor and shadocobra for creating many of these textures!
 
@@ -43,3 +42,4 @@ Enjoy the drive!
 [dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
 [yt-vidlink]: https://www.youtube.com/watch?v=LlzW-lBKEZU
 [yt-thumbnail]: https://img.youtube.com/vi/LlzW-lBKEZU/maxresdefault.jpg
+[join-discord]: https://discord.gg/paeBnG8Csd
