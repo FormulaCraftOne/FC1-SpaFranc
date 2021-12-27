@@ -16,6 +16,7 @@ https://discord.gg/paeBnG8Csd
 
 
 My Socials:
+
 Twitch: https://www.twitch.tv/adamsappleLIVE
 
 Twitter - https://twitter.com/AdamsApplesPie
