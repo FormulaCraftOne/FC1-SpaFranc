@@ -45,7 +45,7 @@ Credit to the builders:
 Enjoy the drive!
 
 <!-- link refrences (repo-specific)-->
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/world.zip
+[dl-latest]: https://git.io/FC1-SpaFranc
 [planetmc]: https://www.planetminecraft.com/project/f1-spa-francorchamps-ice-boat-racing-track-1-17-1/
 [yt-vidlink]: https://www.youtube.com/watch?v=LlzW-lBKEZU
 [yt-thumbnail]: https://img.youtube.com/vi/LlzW-lBKEZU/maxresdefault.jpg
